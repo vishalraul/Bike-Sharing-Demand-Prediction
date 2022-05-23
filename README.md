@@ -44,7 +44,7 @@ Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
 **Data Set Name :-** SeoulBikeData.csv
 
-**Statistics – **
+**Statistics –**
 **Rows -** 8760
 **Features –** 14
 
